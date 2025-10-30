@@ -15,11 +15,11 @@ This project combines **astronomy and nautical experience** to create immersive 
 - Collaboration with **Astroelda** and **Starlight Foundation** initiatives.
 
 ## 🧭 Workflow Example
-Collect monthly ephemerides.
-Design the observation itinerary.
-Prepare navigation plan & sky charts.
-Conduct the session onboard.
-Document and share results.
+- Collect monthly ephemerides.
+- Design the observation itinerary.
+- Prepare navigation plan & sky charts.
+- Conduct the session onboard.
+- Document and share results.
 
 ## 📸 Future Additions
 - Observation reports and photos.
