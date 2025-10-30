@@ -15,5 +15,18 @@ This project combines **astronomy and nautical experience** to create immersive 
 - Collaboration with **Astroelda** and **Starlight Foundation** initiatives.
 
 ## 🧭 Workflow Example
-# Nautical_Astrotourism
-Astronomical navigation and sustainable tourism projects in the Mediterranean/  Proyectos de turismo astronómico y navegación sostenible en el Mediterráneo. 
+Collect monthly ephemerides.
+Design the observation itinerary.
+Prepare navigation plan & sky charts.
+Conduct the session onboard.
+Document and share results.
+
+## 📸 Future Additions
+- Observation reports and photos.
+- Educational materials and star maps.
+- Automation scripts for event planning.
+
+---
+
+Created by **Carolina Seth-Smith**, professional skipper, astronomy monitor, and AI learner exploring the intersection of **sea, stars, and technology**.
+
